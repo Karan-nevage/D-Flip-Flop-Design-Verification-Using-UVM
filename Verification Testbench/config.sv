@@ -24,4 +24,4 @@
 // Global Variables
 //-----------------------------------------------------------------------------
 int match;
-int mismatch;
+int missmatch;
